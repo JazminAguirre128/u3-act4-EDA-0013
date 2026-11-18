@@ -1,0 +1,7 @@
+﻿id_medicamento,nombre_comercial,principio_activo,presentacion,stock_actual,precio_unitario,fecha_caducidad,proveedor,requiere_receta,ubicacion_estante
+501,Aspirina,Acido acetilsalicilico,Tabletas,150,45.5,2025-06,Farmax,False,A1
+502,Amoxicilina,Amoxicilina,Capsulas,80,120.0,2024-12,SaludTotal,True,B3
+503,Omeprazol,Omeprazol,Capsulas,200,85.0,2026-01,MediCorp,False,A2
+504,Ibuprofeno,Ibuprofeno,Tabletas,120,65.0,2025-03,Farmax,False,C1
+505,Loratadina,Loratadina,Jarabe,90,95.0,2024-08,BioGen,False,B2
+506,Metformina,Metformina,Tabletas,110,150.0,2025-11,MediCorp,True,C3
